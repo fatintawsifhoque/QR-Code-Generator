@@ -40,7 +40,7 @@ Experience the smooth UI live. Both versions share the exact same design languag
 
 | Framework | Live Preview | Source Code |
 | :--- | :--- | :--- |
-|  **Vue 3** | [🔗 View Vue Live Demo](#) | [`/vue`](#) |
-| ⚛️ **React** | [🔗 View React Live Demo](#) | [`/react`](#) |
+|  **Vue 3** | [🔗 View Vue Live Demo](https://qr-code-generator-vue-fatin.vercel.app) | [`/vue`](#) |
+| ⚛️ **React** | [🔗 View React Live Demo](https://qr-code-generator-react-fatin.vercel.app) | [`/react`](#) |
 
 ---

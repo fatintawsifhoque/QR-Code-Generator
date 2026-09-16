@@ -26,3 +26,4 @@ This project focuses on clean state management and a smooth user experience, all
 
 ###  Live Link
 
+https://qr-code-generator-react-fatin.vercel.app

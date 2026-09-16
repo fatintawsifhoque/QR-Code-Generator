@@ -25,3 +25,5 @@ This project focuses on leveraging Vue's powerful reactivity system and two-way 
 ---
 
 ###  Live Link
+
+https://qr-code-generator-vue-fatin.vercel.app
