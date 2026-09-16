@@ -40,7 +40,7 @@ const inputValue = ref('')
 const apiLink = 'https://api.qrserver.com/v1/create-qr-code/?&data='
 const qr = ref(apiLink+first)
 const generate = () => {
-  if(!inputValue.value) return inputValue = apiLink+first
+  if(!inputValue.value) return qr.value = apiLink+first
   qr.value = apiLink + inputValue.value
    inputValue.value = ''
 }
